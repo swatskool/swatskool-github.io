@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>SWATI OBEROI DHAM</title>
+  </head>
+  <body>
+    <h1> Swati Oberoi Dham</h1>
+    <img src = 'image.png' width = 100 alt = "My favorite image">
+    <table>
+      <thead>
+        <tr>
+          <th colspan = 2>Learn more about Swati</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td> Research Interests           </td>
+          <td> Advergames, Marketing </td>
+        </tr>
+        <tr>
+          <td>Email </td>
+          <td>swati.dham@ymail.com</td>
+        </tr>
+  </body>
+</html>
